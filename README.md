@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Dataset](https://img.shields.io/badge/Dataset-RCSB%20PDB-red?style=for-the-badge)
 
-### Assignment #13 — Protein Function Classification
+###  Protein Function Classification
 
 Predicting protein functions from amino acid sequences using **Random Forest Classification**.
 
@@ -15,17 +15,6 @@ Predicting protein functions from amino acid sequences using **Random Forest Cla
 
 ---
 
-# 👨‍🎓 Student Information
-
-| Field | Information |
-|---|---|
-| **Student Name** | Muhammed Emin Oral |
-| **Student ID** | s343124 |
-| **Course Project** | Protein Function Annotation |
-| **Programming Language** | Python |
-| **Machine Learning Model** | Random Forest Classifier |
-
----
 
 # 📌 Project Overview
 
